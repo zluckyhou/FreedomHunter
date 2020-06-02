@@ -1,12 +1,10 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+## 欢迎来到我的个人网站
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+你好，我是John，来自最喜欢的美剧Person of Interest。
 
-Oh! I haven't introduced myself...
+这个网站暂时只是用来记录自己学习HTML的一个成果，我还有一个专门的博客，记录着我的一些其他有意思的事情。[欢迎参观我的博客](https://zluckyhou.github.io/)
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+网站最开始搭建来自于[github实验室html基础教程](https://lab.github.com/githubtraining/introduction-to-html)，还不知道怎么搭建个人网站的小伙伴可以动起来了。
 
 I'll meet you over there, can't wait to get started!
 
